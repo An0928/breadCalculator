@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🍞 阿姨的烘焙小幫手 (Auntie's Baking Assistant)
 
-# Run and deploy your AI Studio app
+這是一個專為長輩設計的 **烘焙百分比計算機**。
+旨在解決傳統烘焙計算對長輩來說過於複雜、字體太小以及輸入不便的問題。
 
-This contains everything you need to run your app locally.
+## ✨ 專案特點 (Key Features)
 
-View your app in AI Studio: https://ai.studio/apps/f341b7c6-7700-4afc-9329-8f3ab886c287
+- **長輩友善 UI**：採用超大字體與高對比色彩，確保阿姨在廚房忙碌時也能輕鬆閱讀。
+- **直覺式輸入**：將「麵粉、水、鹽、酵母」拆分為獨立輸入框，避免長輩因空格或標點符號輸入錯誤。
+- **智慧記憶功能**：自動保存上次使用的比例，阿姨下次做麵包只需修改「麵粉重」即可一鍵計算。
+- **行動端優化**：響應式網頁設計，支援「加入手機主畫面」功能，點開即用，操作體感如同原生 App。
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
