@@ -14,7 +14,7 @@
 - **行動端優化：** 響應式網頁設計，支援「加入手機主畫面」作為 Web App 使用。
 
 ## 🛠️ 技術棧 (Tech Stack)
-- **Core Development:** HTML5, CSS3, JavaScript
+- **Core Development:** HTML, CSS3, JavaScript
 - **AI-Assisted Engineering:** Developed with Google AI Studio (Gemini) for rapid prototyping and logic optimization.
 - **Deployment:** GitHub Pages
 
