@@ -2,7 +2,7 @@
 
 [English Description below](#english-version)
 
-### 🔗 [立即使用 (Live Demo)](https://an0928.github.io/BakingAssistant/)
+### [立即使用 (Live Demo)]: (https://an0928.github.io/BakingAssistant/)
 
 這是一個專為長輩設計的烘焙百分比計算機。
 本專案的初衷是解決傳統烘焙計算對長輩而言字體太小、邏輯複雜且輸入不便的問題。透過**需求訪談**與**迭代設計**，將複雜的配方換算轉化為直覺的數位工具。
