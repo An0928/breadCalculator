@@ -1,4 +1,4 @@
-# 🍞 阿姨的烘焙小幫手 (Auntie's Baking Assistant)
+# 🍞 烘焙小幫手 (Auntie's Baking Assistant)
 
 這是一個專為長輩設計的 **烘焙百分比計算機**。
 旨在解決傳統烘焙計算對長輩來說過於複雜、字體太小以及輸入不便的問題。

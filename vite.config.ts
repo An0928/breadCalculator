@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   return {
     // ⬇️ 這是最關鍵的一行，沒加這行網頁絕對會是空白的！
-    base: '/breadCalculator/',
+    base: 'BakingAssistant',
     plugins: [react(), tailwindcss()],
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
