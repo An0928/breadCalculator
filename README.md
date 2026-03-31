@@ -21,6 +21,7 @@
 
 
 ## 📸 介面截圖 (Screenshots)
+下圖展示為 **行動裝置 (Mobile)** 實際操作畫面：
 | 輸入介面 (Input) | 計算結果 (Result) |
 |---|---|
 | ![Input Screen](./screenshots/input.jpg) | ![Result Screen](./screenshots/result.jpg) |
